@@ -16,16 +16,18 @@ Po jednym dla każdej osoby w wygrywającej parze.
 # Lokacje:
 - **Okręt Rogiera** 
 	`/execute in minecraft:overworld run tp @s 4741.06 69.68 2450.92 -172.16 57.26`
-	![[2025-10-23_00.06.58.png]]
+	![Okręt Rogiera](2025-10-23_00.06.58.png)
 - **Domek Talii**
 	`/execute in minecraft:overworld run tp @s 5401.77 70.06 3351.76 -1882.49 9.36`
-	![[2025-10-23_00.03.54.png]]![[2025-10-23_00.04.39.png]]
+	![Domek Talii](2025-10-23_00.03.54.png)![Domek Talii 2](2025-10-23_00.04.39.png)
 - **Morski labirynt**
 	`/execute in minecraft:overworld run tp @s 7430.89 -20.00 1915.67`
-	![[2025-10-23_00.07.40.png]]![[2025-10-23_00.08.23.png]]
+	![Morski labirynt](2025-10-23_00.07.40.png)
+	![Morski labirynt 2](2025-10-23_00.08.23.png)
 - **Strażnica morska**
 	`/execute in minecraft:overworld run tp @s 4168.08 72.60 2775.46 -302.39 -13.66`
-	![[2025-10-23_00.05.30.png]]![[2025-10-23_00.06.12.png]]
+	![Strażnica morska](2025-10-23_00.05.30.png)
+	![Strażnica morska 2](2025-10-23_00.06.12.png)
 # Etapy:
 ## Początek:
 Przygoda zaczyna sie od znalezienia w jednej z osad notatki o ptzycumowanym ogrecie gdzies tam. Na okrecie da sie znalezc pierwszy kompas prowadzacy do smarkuli, oraz w skrzyni 2 notatki (1 szyfrem, druga czesciowo przetlumaczona). Zrobie to tak zeby dalo sie przy odrobinie pracy poskladac solucje do szyfru.
