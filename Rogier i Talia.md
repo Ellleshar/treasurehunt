@@ -80,8 +80,17 @@ give WujekRadek paper[custom_name=[{"text":"Wyzwanie Wody","italic":false,"color
 ```
 ## Układ słoneczny
 ### Centrum układu
+- koordynaty centrum ukladu
 ```java
 /execute in minecraft:overworld run tp @s 1986.59 67.63 4276.34 -4768.59 68.06
+```
+- generowanie układu
+```java
+/ss create world 1986.50 67.50 4276.50
+```
+- ustawianie predkosci symulacji
+```java
+/ss speed 2400000
 ```
 
 ### ~~Ustawienie scoreboardów do przchowywania danych o czasie i prędkości symulacji~~ SCRAPPED, zrobie to pluginem
